@@ -5,10 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "msedge",
+            "name": "Launch Edge",
             "request": "launch",
-            "name": "Open index.html",
-            "url": "https://rlw-code.github.io/Bento/"
+            "type": "msedge",
+            "url": "https://rlw-code.github.io/Bento/",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
