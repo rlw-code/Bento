@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "https://rlw-code.github.io/Bento/"
+            "url": "https://rlw-code.github.io/Bento/"
         }
     ]
 }
